@@ -1,3 +1,3 @@
 # Ping Pong
 
-A JS Based Game !
+Enjoy Sounds ;)
