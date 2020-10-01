@@ -1,3 +1,3 @@
 # Ping Pong
 
-A JS Bases Game !
+A JS Based Game !
